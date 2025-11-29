@@ -65,7 +65,7 @@ PORT=5000
 
 Create a .env file in the client folder if needed:
 
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:3000
 ▶️ Setup & Run
 1️⃣ Clone the repository
 git clone https://github.com/arvind6206/Placement-Preparation-Web-Application.git
